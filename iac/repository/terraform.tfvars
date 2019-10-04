@@ -1,0 +1,8 @@
+description     = "Holds account level terraform"
+name            = "terraform-aws-account"
+private         = "true"
+has_wiki        = "true"
+has_downloads   = "true"
+has_issues      = "true"
+team_permission = "push"
+team_name       = "slalom"
