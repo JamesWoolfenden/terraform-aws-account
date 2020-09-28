@@ -13,5 +13,5 @@ notification = {
   threshold                  = 100
   threshold_type             = "PERCENTAGE"
   notification_type          = "FORECASTED"
-  subscriber_email_addresses = ["james.woolfenden@slalom.com"]
+  subscriber_email_addresses = ["james.woolfenden@gmail.com"]
 }

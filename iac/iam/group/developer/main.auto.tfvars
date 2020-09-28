@@ -1,5 +1,5 @@
 common_tags = {
-  name = "developers-slalom"
+  name = "developers-redwolf"
 }
 
 users = [

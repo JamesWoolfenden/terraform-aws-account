@@ -1,5 +1,5 @@
 common_tags = {
-  name = "circleci-slalom"
+  name = "circleci-James"
 }
 
 user = "circleci"

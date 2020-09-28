@@ -1,7 +1,7 @@
 terraform {
   backend "remote" {
     hostname     = "app.terraform.io"
-    organization = "slalom"
+    organization = "redwolf"
 
     workspaces {
       name = "iam-ci-infra-serverless"
