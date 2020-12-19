@@ -1,4 +1,5 @@
 resource "github_repository" "repository" {
+  #checkov:skip=CKV_GIT_1: "Ensure Repository is Private"
   description   = var.description
   name          = var.name
   private       = var.private
