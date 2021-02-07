@@ -52,4 +52,4 @@ repos:
     hooks:
       - id: checkov
         verbose: true
-        entry: checkov -d .
+        entry: checkov -d iac
