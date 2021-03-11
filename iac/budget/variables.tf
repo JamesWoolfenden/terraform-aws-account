@@ -15,7 +15,7 @@ variable "time_period_start" {
 
 variable "budget" {
   description = "Basic Budget Properties"
-  type        = map
+  type        = map(any)
 }
 
 variable "notification" {

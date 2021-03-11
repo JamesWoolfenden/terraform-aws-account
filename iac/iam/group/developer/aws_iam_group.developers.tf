@@ -8,7 +8,7 @@ resource "aws_iam_user" "names" {
   name  = element(var.users, count.index)
   path  = "/"
 
-  tags = "${var.common_tags}"
+  tags = var.common_tags
 }
 
 resource "aws_iam_group_membership" "team" {

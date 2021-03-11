@@ -1,7 +1,7 @@
 variable "common_tags" {
-  type = map
+  type = map(any)
 }
 
 variable "users" {
-  type = list
+  type = list(any)
 }

@@ -3,4 +3,4 @@ common_tags = {
 }
 
 users = [
-  "joeblogs",]
+"joeblogs", ]

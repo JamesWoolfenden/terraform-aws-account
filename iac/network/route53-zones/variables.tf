@@ -7,6 +7,6 @@ variable "comment" {
 }
 
 variable "common_tags" {
-  type        = map
+  type        = map(any)
   description = "Implments the common tags scheme"
 }
